@@ -1,1 +1,1 @@
-Tailwind only boorkamark extension site. fully responsive.
+Tailwind only boorkamark extension site. Mobile and tablet responsive.
